@@ -44,7 +44,7 @@ if __name__ == "__main__":
     # if len(s) == 1:
     #     return 1
     # 자르는 단위 1부터 시작해야하는데 2부터 시작함
-    # 그래서 
+    # 그래서 틀렸음
     for i in range(1, len(s) // 2 + 1):
 
         all_string = ''
